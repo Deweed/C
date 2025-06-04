@@ -4,7 +4,7 @@
 
 <h1>⚙️ Projetos em Linguagem C</h1>
 
-<p align="center">
+<p>
 Este diretório contém os projetos desenvolvidos utilizando a linguagem de programação <b>C</b> durante as aulas de Desenvolvimento de Dispositivos Web. Estes projetos exploram conceitos fundamentais de programação estruturada e manipulação de baixo nível.
 </p>
 
