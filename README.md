@@ -13,7 +13,7 @@ Este diretório contém os projetos desenvolvidos utilizando a linguagem de prog
 
 ### 📱 Pontal e Jatiboca:
 
-Aplicação em C
+simula um sistema de gerenciamento de estoque para duas empresas fictícias: `Jatiboca` e `Pontal`. Ele permite ao usuário realizar operações básicas de controle de estoque de açúcar, como entrada, saída, transferência entre empresas e consulta.
 
 ----
 
